@@ -5,14 +5,11 @@
 <h3>How to Run</h3>
 <h1><code>streamlit run app.py</code></h1>
 
-<h2 style="center">Samples</h2>
+<h2 style="center">Project Samples</h2>
 
-![image](https://github.com/user-attachments/assets/f308e2df-a911-48ef-b15a-9a38e89f2323)
+![Streamlit - Google Chrome 02-10-2024 4 18 44 PM](https://github.com/user-attachments/assets/8abc6dcc-897f-4e22-b4ce-ec06923575a4)
 
-![image](https://github.com/user-attachments/assets/4d56245b-f64c-40db-89f6-863f22d2e1e4)
+![Streamlit - Google Chrome 02-10-2024 4 21 31 PM](https://github.com/user-attachments/assets/fdba0918-dc49-4cda-b3f1-fd094bf5cce7)
 
-![image](https://github.com/user-attachments/assets/eea2d9bf-34a1-4ca4-b9c8-faa4045ffe75)
-
-![image](https://github.com/user-attachments/assets/e5515d9a-bfa9-4a30-a3a2-103b2ebf6992)
 
 
